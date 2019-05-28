@@ -7,8 +7,8 @@ see `Buttons` for SVGs
 
 ## View site
 
-![](https://github.com/Firstturnmedia/dev-btns/Buttons/blob/master/Primary.png?raw=true)
+![](https://github.com/Firstturnmedia/dev-btns/blob/master/Buttons/Primary.png?raw=true)
 
 ## Dashboard
 
-![](https://github.com/Firstturnmedia/dev-btns/Buttons/blob/master/Secondary.png?raw=true)
+![](https://github.com/Firstturnmedia/dev-btns/blob/master/Buttons/Secondary.png?raw=true)
