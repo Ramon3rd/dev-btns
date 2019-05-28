@@ -5,7 +5,7 @@ see `Buttons` for SVGs
 
 ![](https://github.com/Firstturnmedia/dev-btns/blob/master/Mockup.png?raw=true)
 
-## View site
+## View mulidev
 
 ![](https://github.com/Firstturnmedia/dev-btns/blob/master/Buttons/Primary.png?raw=true)
 
